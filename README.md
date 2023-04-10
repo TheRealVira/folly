@@ -3,7 +3,7 @@ Folly: Facebook Open-source Library
 
 Folly is an open-source C++ library developed and used at Facebook.
 
-###[Get Started](folly/docs/Overview.md)
+### [Get Started](folly/docs/Overview.md)
 
 Folly is published on Github at https://github.com/facebook/folly; for
 discussions, there is a Google group at
